@@ -181,3 +181,11 @@ uv.lock
 competition/
 tests/test_matchup.py
 paper/validation/replays/
+
+# Project outputs
+runs/
+.generals_bot_id
+
+
+CLAUDE.md
+mynotes/
